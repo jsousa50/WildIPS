@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WildIPS</string>
+    <string name="benvindo">Welcome</string>
+    <string name="clickTo">Press the logo to enter.</string>
+</resources>
